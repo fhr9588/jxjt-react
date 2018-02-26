@@ -1,0 +1,83 @@
+/*公司简介 */
+.yx_part_yx_part3{
+    width:100%;
+    margin:auto;
+}
+.CompanyCenter{
+    width:1100px;
+    height:450px;
+    margin:auto;
+}
+.CompanyCenter .CompanyCenter-title{
+    text-align: center;
+    margin:50px 0 ;
+    font-size: 36px;
+}
+.CompanyImg{
+    width:724px;
+    height:330px;
+    float:left;
+}
+.CompanyImg img{
+    width:100%;
+    height:100%;
+}
+.Company{
+    width:1100px;
+    height:20px;
+    font-weight:900;
+    margin:auto;
+    bottom:0;
+    vertical-align:middle;
+    padding-top:20px;
+    margin-bottom:20px;
+    font-size:18px;
+}
+.CompanyText{
+    width:280px;
+    height:330px;
+    color:Gray;
+    line-height:1.5;
+    font-size:14px;
+    float:right;
+    margin-right:45px;
+}
+.intro_tittle{
+    color:Black;
+    font-weight:900;
+    text-align:center;
+}
+
+/*大轮播图*/
+#swiper1{
+    width: 100%;
+    height: 500px;
+}
+#swiper1 .swiper-wrapper .swiper-slide img{
+    width: inherit;
+    height: inherit;
+}
+#swiper1 .pagination1{
+    top:340px;
+}
+
+/*小轮播图*/
+.smallBanner{
+    padding-bottom: 50px;
+}
+.smallBanner .smallBanner-title{
+    text-align: center;
+    margin: 50px 0;
+    font-size: 36px;
+}
+.one{
+    background: url(../../Image/Master/pjjp.png) no-repeat center;
+    background-size: contain;
+}
+.two{
+    background: url(../../Image/Master/qpk.png) no-repeat center;
+    background-size: contain;
+}
+.smallBanner .pagination2{
+    top:140px;
+}
